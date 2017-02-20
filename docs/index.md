@@ -7,6 +7,6 @@ friends and move more cargo!
 ## Rules
 
 ## Background
-While visiting [PAX South]() authors Dave and Marshall sat in a panel on how to break into the tabletop gaming 
+While visiting [PAX South](http://south.paxsite.com/) authors Dave and Marshall sat in a panel on how to break into the tabletop gaming 
 industry. One of the major points was _"Think about how you're going ship!"_ This struck a chord and they thought,
 _"THAT would make a good game. Let's do it!"_
